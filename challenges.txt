@@ -1,47 +1,113 @@
-Create a 4x4 grid of farms
-Have 30 idle Villagers for about a minute
-Make 2 side by side castles
-4 Ram long Ram train using follow
-Put a relic in an emeny monstary
-Fill a ram with all different units
-Write a word with pallisaded walls
-Bottom out the prices of everything in the market
-Make a 3x3 grid of blacksmiths
-Kill a castle with only villagers
-Wall in all your starting stone and gold (you can still have vils working inside the walls)
-Don't kill any animals under your TC
-Have a stone wall behind every section of pallisade
-Stay in Feudal till atleast 35 minutes
-Never go to imperial
-Never chop your straggler trees
-Scout the entire map
-Scout less then 50% of the map
-Fill a castle with petards
-Sacrifice a starting villager to the enemy TC
-Kill all your starting sheep at the same time
-Get loom in imperial age
-Make a second TC beside your starting one
-Wall in a wolf
-Wall in an enemy villager
-Wall in an enemy scout
-Have a fully garrisioned stable
-Have a fully garrisoned barracks
+Build at least 6 farms before you reach feudal age.
+Have at least 10k of a single resource at the end of the game.
+Surround a town center with a 3 layer stone wall
+Bring Relics to the corners of the map
+Do not kill any herd-able animals (you can however send them to your enemies to be killed)
+Do not allow any monasteries to be built
+Scout an entire side edge of the map before reaching feudal age.
+Destroy an opponents building by building a tower or castle adjacent to it and letting the building destroy it (this needs murder holes in the university)
+Use the follow order to make a line of 5 rams.
+Fight their scout to the death one on one with your scout before reaching feudal age.
+Wall in an opponents military production building
+Wall in 3 of your own military production buildings at the same time (you cannot be the one to delete the walls)
+Kill 2 of your own villagers on the same boar
+Wall in an enemies unit with your villagers
+Build 2 armories before reaching the castle age.
+Build 1 unit from each military production building possible for your faction before reaching castle age. (barracks, range, stable, siege workshop )
+Use the follow order to make a line of 5 transport ships. (If no water, Use the follow order to make a line of 5 rams Choo Choo!)
+Build 2 markets before reaching castle age.
+Destroy an enemy castle with flaming camels or pertards
+Kill an enemy unit (not building) with a trebuchet
+Build 7 towers in range of your first TC.
+Build a castle in your opponents base before reaching imperial age.
+Gather a group of 30 of your unique units under your town center, and delete them.
+Upon reaching Imperial age, set all your TC gather points in the middle of the enemies base and queue up as many villagers as possible in each of them. You cannot reset this gather point.
+Have 50 connected houses at the end of the game.
+Delete 50 trash units over the course of the game without getting caught. (trash units do not cost gold)
+Send a fully garrisoned Siege towers at the enemies base and let it be destroyed without manually ejecting troops. 
+Destroy an enemy monastery with a relic and return the relic to your base
+Build a castle on low elevation with no resources in range of it behind your own base.
+Delete your starting town center before you build a second one and have your teammates not notice it's gone for 30 seconds.
+Only allow your team to build unique units or units that your civilization gives a bonus for until you reach imperial age. (example, Persians archer line because of cost or Lithuanian knights because of attack bonus)
+Only build one type of military unit until you reach castle age.
+Delete a lumber camp where at least 15 lumberjacks are working. You cannot rebuild it.
+Get at least 10 kills with villagers
+Delete all your farms once your team has atleast 15 farms without your allies noticing for 30 seconds. 
+Build at least 10 docks (If no water, build a mix of 5 barracks and universities on the edge of the map)
+Build two castles adjacent to each other before imperial age is reached.
+Build a 4x4 block of adjacent farms
+Wall in a stone or gold with mining camps
+Delete 10 or more villagers on the same gold camp at once without your teammates noticing for 30 seconds.
+Build 2 adjacent town centers before imperial age is reached.
+Blow up 5 or more petards within line of site of an opponents town center without damaging any units or buildings.
+Build a castle within range of an opponents castle.
+Destroy an enemy castle using only villagers
+Kill 3 enemy villagers with a archer sent in alone (kills must be without protecting the unit with other units and can be done with different archers)
+Build a castle surrounded by a stone wall and 4 towers in the corners
+Have 150+ villagers
+Build 20 houses in a straight line
+Have all houses facing the same direction when the game ends
+Have a fully garrisoned stable (or barracks if mesoamerican civ)
+Spell a 3+ letter word with palisade walls
+End the game with 7 or more town centers
+Build a 2x2 block of markets
+End the game with 9 or more castles
+Build all monastery techs
 Have a fully garrisoned archery range
-Wall a villager in a three layered thick stone wall square
-Sacrifice 3 trade carts to an enemy castle
-Reserch spies
-Reserach all university techs
-Reserach all monstary techs
-Have greater then 0 trade profit
-Kill all the Hunt
-Fill a seige tower
-Grab a relic with 10 units in box formation
-Have berries remaining at the end of the game
-Villager high of 160+
-Total castles greater then 8
-Never build a castle
-Have a tower protecting each lumber camp
-Build 20 houses in a line
-Have all the houses face the same direction at the end of the game with 200 pop space;
-Never have max pop space
-Build a building next to an enemy TC
+Have a fully garrisoned barracks
+Kill every animal on the map
+Wall in at least 3 different types of animals in one spot
+End the game with at least 5 monasteries and 10 monks
+Research Spies or bring your king within line of site of an enemy town center
+End the game with at least one“straggler” trees (trees next to your time center)
+Wall in a wolf with a female villager.
+Wall in an enemy villager.
+Fight a villager to the death one on one with your own villager.
+Have a watch tower next to every one of your lumber camp when the game ends. (minimum 3 camps)
+End the game with all stone and wood you are mining on the map walled in.
+Put a relic in an enemy monastery
+Build a 4 sided 3 layer stone wall around a single villager
+End the game with a wall around at least 1 berry bush
+Build 2 barracks before feudal age is reached.
+Build 4 archery ranges before castle age is reached.
+Build 4 stables before castle age is reached. (if meso civ, build 5 barracks before castle age is started.)
+Build an army of 70 or more cavalry units (eagles if meso civ)
+End the game with 5 or more universites
+End the game with a town center adjacent to an opponents building.
+Kill 10 or more enemy troops with a single unit
+Change an army of 15+ melee units to stand ground stance for at least 30 seconds inside an enemies base and keep them from moving.
+Have a market in each corner of the map at the end of the game.
+Have every villager mining gold at once while in fedual age or later.
+Use a siege onager to clear an entire woodline (minimum 10 trees)
+Build a militia in dark age. Upgrade your first militia to champion. Keep the militia alive until the end of the game.
+After reaching feudal age, do not take an action until your team reaches castle age. If a teammate notice you not taking an action you do not get points.
+Never have over 1700 resources of a single type stockpiled. (Food cost for elite war elephaunt is 1600)
+Place 3 relics adjacent to a university.
+Build 2 docks on a land locked lake once no fish are in it. If no lake on map, build 6 adjacent docks. If no water on map, build 10 adjacent houses on the edge of the map.
+Build 2 adjacent farms completely surrounded by a wall of houses
+After Imperial age, every army of more than 10 miltary units must travel with at least 1 Monk. If any army after this is traveling without a monk you fail this challenge.
+Take out an enemies castle with only knight-line.
+Convert an enemy building. (If your civ does not have redemption, put 5 villagers underneath an enemies town center)
+Any time more than 5 villagers are idle in one spot, delete those idle villagers without your allies noticing. (example, villagers finish on a mine or lumber camp)
+At the end of the game, every lumber camp you own must have a house adjacent to it. (minimum 3 camps)
+Get all university upgrades.
+Build a 2 by 2 block of Monasteries surrounded by a wall.
+Cancel the imperial age upgrade at after It reaches 95% and do not restart it.
+Finish the game with more than zero trade. (You must trade with the opponent)
+Have atleast 50 Hand Canoneers or Jannisaries and bombard cannons at once. If no gunpowders, have atleast 30 trebuchets at one time.
+Build an army of atleast 70 or more ranged units at once.
+Send an army of 50+ villagers at your opponents base or army. None can go back to economic production or you fail this mission.
+Build an army of atleast 70 or more infantry units at once.
+Keep auto farming off until imperial age. If a farm is prebuilt or auto farmed you fail this mission. 
+Upon completing Imperial Age, your team must have no walls.
+Build a mill adjacent to an opponents mill and have atleast 5 farmers working from it.
+Have a watchtower in range of every animal on the map at the end of the game. Minimum of 3 animals must remain alive.
+Circle the entire map with your king, or a single male villager.
+Build a wall around your starting town center before you reach castle age. You fail this challenge if an enemy troop ever gets within that wall.
+Keep a female villager in a castle for atleast 5 minutes coninuously.
+At the end of the game, every villager on each resource must be working with only villagers of the same gender. 
+Build an army consisting of 2 or more units from each of 8 different types of military units. (built from barracks, range, stable, seige workshop, castle)
+Have at least 5 different mining camps on gold mines in different locations.
+Have 5 or more military buildings of a single type queued to their max production amount at the same time. 
+Send an army of 20+ male villagers at your opponents base or army. None can go back to economic production or you fail this mission.
+Set an army of 5+ soldiers to patrol from one edge of the map to the opposite edge and have them make the enitre trip there and back without issuing any other commands.
